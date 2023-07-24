@@ -1,10 +1,13 @@
+## This Copy of this Forked Repo is the Project created by Lydia Ntafa, Gemma McKenzie, Fahim Islam, and Asha Ali.
+## This was done during Week 7 (Engineering Project 1) of Makers Software Developing Bootcamp
+
 # MakersBnB Python Project Seed
 
 This repo contains the seed codebase for the MakersBnB project in Python (using 
 Flask and Pytest).
 
-Someone in your team should fork this seed repo to their Github account. 
-Everyone in the team should then clone this fork to their local machine to work on it.
+Someone in your team should fork this seed repo to their GitHub account. 
+Everyone on the team should then clone this fork to their local machine to work on it.
 
 ## Setup
 
