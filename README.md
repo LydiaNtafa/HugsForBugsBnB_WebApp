@@ -6,9 +6,6 @@
 This repo contains the seed codebase for the MakersBnB project in Python (using 
 Flask and Pytest).
 
-Someone in your team should fork this seed repo to their GitHub account. 
-Everyone on the team should then clone this fork to their local machine to work on it.
-
 ## Setup
 
 ```shell
@@ -28,12 +25,13 @@ Everyone on the team should then clone this fork to their local machine to work 
 
 # Open lib/database_connection.py and change the database names
 ; open lib/database_connection.py
-
-# Run the tests (with extra logging)
-; pytest -sv
-
-# Run the app
-; python app.py
-
-# Now visit http://localhost:5000/index in your browser
 ```
+## Run the tests (with extra logging)
+```
+; pytest -sv
+```
+## Run the app
+```
+; python app.py
+```
+## Now visit http://localhost:5000/index in your browser
