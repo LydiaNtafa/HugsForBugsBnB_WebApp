@@ -1,5 +1,5 @@
-## This Copy of this Forked Repo is the Project created by Lydia Ntafa, Gemma McKenzie, Fahim Islam, and Asha Ali.
-## This was done during Week 7 (Engineering Project 1) of Makers Software Developing Bootcamp
+This is a team project created by Lydia Ntafa, Gemma McKenzie, Fahim Islam, and Asha Ali.
+This was done as our first group engineering project during week 7 of the Makers Software Developing Bootcamp.
 
 # MakersBnB Python Project Seed
 
